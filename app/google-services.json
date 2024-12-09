@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "660841905126",
+    "project_id": "loginwithfirebase-dc6cb",
+    "storage_bucket": "loginwithfirebase-dc6cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660841905126:android:2fd43ead5d6363d809b427",
+        "android_client_info": {
+          "package_name": "com.example.loginwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc2S2EARZXfqb0t20rHJ9RvOKwl61L3zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660841905126:android:b49cb51a7634285109b427",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc2S2EARZXfqb0t20rHJ9RvOKwl61L3zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
